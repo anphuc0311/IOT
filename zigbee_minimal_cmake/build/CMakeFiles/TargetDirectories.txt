@@ -1,0 +1,4 @@
+E:/Silab/v5_workspace/zigbee_minimal/zigbee_minimal_cmake/build/CMakeFiles/slc_zigbee_minimal.dir
+E:/Silab/v5_workspace/zigbee_minimal/zigbee_minimal_cmake/build/CMakeFiles/zigbee_minimal.dir
+E:/Silab/v5_workspace/zigbee_minimal/zigbee_minimal_cmake/build/CMakeFiles/edit_cache.dir
+E:/Silab/v5_workspace/zigbee_minimal/zigbee_minimal_cmake/build/CMakeFiles/rebuild_cache.dir
